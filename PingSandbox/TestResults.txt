@@ -1,0 +1,29 @@
+﻿==================================================
+Nr tasks: 10
+Ms timeout: 200
+Total domains: 1000
+Total seconds: 36.49
+Domains per second: 27.40
+Domains taken   : (372 / 1000)
+Domains not sure: (628 / 1000)
+==================================================
+
+==================================================
+Nr tasks: 20
+Ms timeout: 200
+Total domains: 1000
+Total seconds: 28.05
+Domains per second: 35.66
+Domains taken   : (353 / 1000)
+Domains not sure: (647 / 1000)
+==================================================
+
+==================================================
+Nr tasks: 40
+Ms timeout: 200
+Total domains: 1000
+Total seconds: 28.94
+Domains per second: 34.56
+Domains taken   : (333 / 1000)
+Domains not sure: (667 / 1000)
+==================================================
